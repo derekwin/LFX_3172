@@ -6,7 +6,7 @@
     - Rutls build
     - Rustls testcases
 - Git branch
-- Analyzing the integration process of the WasmEdge Rustls plugin into WasmEdge
+- Analyzing the integration process of the wasmedge_rustls_plugin into WasmEdge
     - Structures of the plugin code
     - How the plugin is utilized
 - What does the Burn project need to expose to WasmEdge? [todo]
