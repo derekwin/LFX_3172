@@ -110,7 +110,7 @@ wasmedge https.wasm
 # Branch
 I have fork the branch 'hydai/0.13.5_ggml_lts' to https://github.com/derekwin/WasmEdge
 
-# Analyzing the integration process of the WasmEdge Rustls plugin into WasmEdge.
+# Analyzing the integration process of the wasmedge_rustls_plugin into WasmEdge.
 pull request : [pull/2762](https://github.com/WasmEdge/WasmEdge/pull/2762)
 
 main change : [commit:163f](https://github.com/WasmEdge/WasmEdge/pull/2762/commits/163f00f7ae9c246e6dee95154f868babc1620e00)
