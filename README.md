@@ -146,7 +146,7 @@ mod wasmedge_client_plugin
     read_tls() | closure | read_tls
     create_module() | pub | PluginModule | add all fn ubove to module by .add_func()
 
-    wasaedge_plugin_sdk::plugin::register_plugin!() | register create_module() to .modules
+wasaedge_plugin_sdk::plugin::register_plugin!() | register create_module() to .modules
 
 ```
 
